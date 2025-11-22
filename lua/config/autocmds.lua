@@ -14,3 +14,5 @@ vim.api.nvim_create_autocmd("User", {
     end, 500)
   end,
 })
+vim.cmd("colorscheme catppuccin-mocha")
+-- Các variants: catppuccin-latte, catppuccin-frappe, catppuccin-macchiato, catppuccin-mocha

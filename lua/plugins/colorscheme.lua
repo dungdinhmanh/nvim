@@ -4,6 +4,7 @@ return {
     event = "VeryLazy",
     name = "catppuccin",
     opts = {
+      transparent_background = true,
       lsp_styles = {
         underlines = {
           errors = { "undercurl" },
