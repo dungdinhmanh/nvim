@@ -1,0 +1,11 @@
+.netrwhist
+*.swp
+*.swo
+*~
+
+.DS_Store
+Thumbs.db
+*.log
+
+debug/
+.repro/
