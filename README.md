@@ -1,4 +1,4 @@
-# nvim config
+# my nvim config
 
 <a href="https://dotfyle.com/dungdinhmanh/nvim"><img src="https://dotfyle.com/dungdinhmanh/nvim/badges/plugins?style=flat" /></a>
 <a href="https://dotfyle.com/dungdinhmanh/nvim"><img src="https://dotfyle.com/dungdinhmanh/nvim/badges/leaderkey?style=flat" /></a>
@@ -12,13 +12,13 @@
 Clone the repository and install the plugins:
 
 ```sh
-git clone git@github.com:dungdinhmanh/nvim ~/.config/dungdinhmanh/nvim
+git clone git@github.com:dungdinhmanh/nvim ~/.config/nvim
 ```
 
 Open Neovim with this config:
 
 ```sh
-NVIM_APPNAME=dungdinhmanh/nvim/ nvim
+NVIM_APPNAME=nvim/ nvim
 ```
 
 ## Plugins
