@@ -1,9 +1,10 @@
 return {
   {
     "catppuccin/nvim",
-    event = "VeryLazy",
     name = "catppuccin",
+    priority = 1000,
     opts = {
+      flavour = "mocha",
       transparent_background = true,
       lsp_styles = {
         underlines = {
